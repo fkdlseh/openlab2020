@@ -3,5 +3,6 @@
 
 void main()
 {
+	my_experiment_function();
 	goo();
 }
