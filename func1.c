@@ -5,3 +5,8 @@ void goo()
 {
 	printf("hello goo\n");
 }
+
+void fun()
+{
+	printf("func");
+}
