@@ -5,3 +5,7 @@ void goo()
 {
 	printf("hello goo\n");
 }
+void my_experiment_function()
+{
+	printf("my_experiment_function");
+}
